@@ -1,0 +1,23 @@
+table{
+    width:500px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: arial;
+    background-color: rgb(165, 223, 204);
+    }
+
+tr td {
+    border: 1px solid black;
+    padding: 3px;
+    vertical-align: top;
+    }
+
+.imagecell {width: 70%}
+.lastcol {width: 30%}
+.cap{width: 70%;}
+.threefive {width: 35%;}
+img{
+    width: 100%;
+}
+
+body {background-color: rgb(153, 176, 168);}
